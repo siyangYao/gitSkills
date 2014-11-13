@@ -1,0 +1,11 @@
+Install Groovy:
+tutorial: groovy.codehaus.org
+
+$curl -s get.gvmtool.net | bash
+$source “$HOME/.gvm/bin/gvm-init.sh”
+$gvm install groovy
+
+$groovy -version
+
+$groovysh or $groovyConsole // open groovy
+$groovy filename.groovy //this command means execute that groovy file

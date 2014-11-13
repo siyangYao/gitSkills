@@ -1,0 +1,11 @@
+Gradle Install:
+$brew install gradle
+$gradle -v
+
+create a file named build.gradle, then vi build.gradle
+like:
+	task hell <<{
+		println ‘hello world’
+	}
+
+$gradle -q hello
