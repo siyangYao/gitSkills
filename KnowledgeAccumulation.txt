@@ -1,0 +1,3 @@
+1. Logger: 分级别：error> warning> info> debug 起始需要设置级别, 但可以在log4j.xml中改级别.
+
+2. Lombok: @Getter @Setter annotation自动给fields添加set和get方法. @Data: All together now: A shortcut for @ToString, @EqualsAndHashCode, @Getter on all fields, and @Setter on all non-final fields, and @RequiredArgsConstructor!
