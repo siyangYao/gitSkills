@@ -7,3 +7,7 @@ http://www.java2s.com/Tutorial/Java/0417__Spring/SpringDAOPattern.htm  ****
 http://www.tutorialspoint.com/spring/spring_jdbc_example.htm
 
 http://vrtoonjava.wordpress.com/2012/06/17/shall-we-do-some-spring-together/    ****
+
+
+building a shopping cart
+http://springinpractice.com/2008/05/06/build-a-shopping-cart-with-spring-web-flow-2-part-2/
